@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?";
-const apiKey = "1ed941b01634038f7c6187eb61aca024";
+const apiKey = "YOUR API KEY HERE" // Place your API key here
 
 export default class Weather extends Component {
   constructor(props) {
